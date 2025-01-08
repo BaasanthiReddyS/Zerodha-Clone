@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
     return ( 
-        <div className="container">
+        <div className="container pt-5">
             <div className='row p-5 text-center fs-5 text-muted'>
                 <h1 style={{paddingTop:"55px"}}>Pricing</h1>
                 <p style={{paddingTop:"12px",paddingBottom:"75px"}}>Free equity investments and flat ₹20 intraday and F&O trades</p>

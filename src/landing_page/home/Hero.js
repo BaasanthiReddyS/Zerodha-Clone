@@ -13,7 +13,7 @@ function Hero() {
         //mb or mt or any 5 is max limit.
 
         <div className='container p-5'>
-            <div className='row text-center'>
+            <div className='row text-center pt-5'>
                 <div className='col'>
                     <img src='media/homeHero.png' alt='Hero IMG' className='mb-4' style={{width:"65%", height:"auto",}}/>
                     <h1 className='mt-5'>Invest in everything</h1>
