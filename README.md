@@ -1,6 +1,6 @@
-#Zerodha Clone Frontend
+<h1>Zerodha Clone Frontend</h1>
 
-#Tecnologies
+<h5>Tecnologies</h5>
 <ul>
     <li>React js</li>
     <li>Javascript</li>
