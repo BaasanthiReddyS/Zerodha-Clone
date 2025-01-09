@@ -12,7 +12,7 @@
 
 <h2>How to run</h2>
 <br/>
-1.Create a folder, open it on any local pc and open terminal.<br/>
+<h5>1.Create a folder, open it on any local pc and open terminal.</h5><br/>
 2.Clone the system with this cammand: "git clone https://github.com/BaasanthiReddyS/Zerodha-Clone.git"<br/>
 3.Enter the directory Zerodha-Clone: "cd Zerodha-Clone"<br/>
 4.Run the code by these commands:
@@ -20,4 +20,4 @@
     <li>npm install</li>
     <li>npm run</li>
     <li>npm start</li>
-</ul>
+</ul><br/>
